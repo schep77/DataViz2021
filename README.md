@@ -9,7 +9,7 @@ This graph shows the Fatalities per Year, and Per Decade.
 
 ![Fatalities per Year and Decade](https://github.com/schep77/DataViz2021/blob/main/Visualizations/FatalititesPerYear_Decade.png)
 
-
+------
 
 ## Mini Project 2:
 This is a Bi-gram of the crash summary just to try and see if there was a common reason recorded for these crashes.
